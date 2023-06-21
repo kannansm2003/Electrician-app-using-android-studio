@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EA</string>
+    <string-array name="cricketer1">
+        <item>Afghanistan</item>
+        <item>America</item>
+        <item>Algeria</item>
+        <item>Amgola</item>
+    </string-array>
+</resources>
